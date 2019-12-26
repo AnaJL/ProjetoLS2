@@ -4,6 +4,10 @@ body{
   background-attachment: fixed;
   font-family: 'Open Sans', sans-serif;
   margin: 0%;
+  transition: ease-in-out;
+}
+.bodyactive{
+  transition: ease-in-out;
 }
 body ul li {
   text-decoration: none;
