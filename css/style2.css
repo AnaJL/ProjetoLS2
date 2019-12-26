@@ -4,7 +4,9 @@ body{
   background-attachment: fixed;
   font-family: 'Open Sans', sans-serif;
   margin: 0%;
+  transition: ease-in-out;
 }
+
 body ul li {
   text-decoration: none;
   display: inline-block;
